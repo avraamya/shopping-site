@@ -1,0 +1,15 @@
+#cart-float{
+    width: auto;
+    height: auto;
+    background-color: gainsboro;
+    opacity: 0.9;
+    padding: 10px;
+    border:1px solid #ea5955;
+    border-radius: 10px;
+    position: fixed;
+    left: 60px;
+    top: 60px;
+    z-index:1;
+    display: none;
+}
+
